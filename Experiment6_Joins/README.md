@@ -1,7 +1,7 @@
 # Experiment 6: Joins
 
-## NAME: ABISHA RANI S
-## REG.NO: 212224040012
+## NAME:ASWIN ANTONY.S
+## REG.NO: 212224220014
 ## AIM
 To study and implement different types of joins.
 
@@ -214,7 +214,7 @@ join salesman s on o.salesman_id=s.salesman_id;
 
 SEB:
 
-<img width="1542" height="107" alt="image" src="https://github.com/user-attachments/assets/5ddc1b61-8ebb-4683-a013-e039b82a300b" />
+<img width="1416" height="80" alt="image" src="https://github.com/user-attachments/assets/a85ca6bc-a3fe-49c3-89e9-f927b6ae8326" />
 
 
 ## RESULT
